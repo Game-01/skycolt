@@ -1,1 +1,1 @@
-print('the colt copy') 
+gg.print('the colt copy') 
